@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩‍💻 Larissa Ferreira
 
-<!--
-**larissaferreiradefranca/larissaferreiradefranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Front-end em formação com background em implementação de software e experiência do cliente.  
+Combinando visão analítica de UX com código limpo para criar interfaces funcionais e centradas no usuário.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+`HTML5` `CSS3` `JavaScript` `Figma` `Git/GitHub`  
+Estudando: Design Systems, Acessibilidade, UX Research, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Foco atual
+Desenvolvimento de interfaces responsivas, interativas e acessíveis — unindo experiência do usuário com implementação técnica.
+
+## 📂 Projetos em destaque
+- **[Javascript](https://github.com/larissaferreiradefranca/Javascript)** — Inicio dos estudos em JavaScript
+- **[HTML](https://github.com/larissaferreiradefranca/HTML)** — Inicio dos estudos em HTML
+
+## 📫 Vamos conversar?
+[LinkedIn](https://www.linkedin.com/in/larissa-ferreira-ux/) • [Email](larissaferreiradefranca@gmail.com
+)
+
+---
+*"Tecnologia é mais poderosa quando aproxima pessoas da criação."*
